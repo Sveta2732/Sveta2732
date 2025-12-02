@@ -15,16 +15,31 @@ I thrive in **collaborative environments**, as they allow me to learn new skills
 ## 💻 Tech Stack
 
 🌐 **Programming & Analysis**  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)  
 
 🖥 **Web & Backend**  
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![REST API](https://img.shields.io/badge/REST-6DB33F?style=for-the-badge)  
 
+🛠 **Collaboration & Tools**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white) 
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+🤖 **Machine Learning**  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFA500?style=for-the-badge) 
+![PySpark MLlib](https://img.shields.io/badge/PySpark_MLlib-E25A1C?style=for-the-badge)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+  
 📊 **Data Visualisation & Analysis**  
 ![ggplot2](https://img.shields.io/badge/ggplot2-FF69B4?style=for-the-badge) 
 ![Tableau](https://img.shields.io/badge/Tableau-4E9FD1?style=for-the-badge&logo=tableau&logoColor=white) 
@@ -38,18 +53,6 @@ I thrive in **collaborative environments**, as they allow me to learn new skills
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge)
 
-🤖 **Machine Learning**  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFA500?style=for-the-badge) 
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![PySpark MLlib](https://img.shields.io/badge/PySpark_MLlib-E25A1C?style=for-the-badge)
-
-🛠 **Collaboration & Tools**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white) 
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 
 ---
@@ -58,7 +61,7 @@ I thrive in **collaborative environments**, as they allow me to learn new skills
 - [**Anti-Cyberbullying Web App**](https://github.com/Sveta2732/Svetlana-Portfolio/tree/main/cyberbullying-team-project-web) – Interactive platform with AI text analysis, Hugging Face and Gemini API integration, and visualisations for teenagers.
 - [**ML Cyberbullying Detection API**](https://github.com/Sveta2732/Svetlana-Portfolio/tree/main/ml-cyberbullying-detector-api) – Pre-trained NLP models integrated with FastAPI, logs to AWS RDS, and live Gradio demo.
 - [**Dog Ownership Visualisation**](https://github.com/Sveta2732/Svetlana-Portfolio/tree/main/shiny-dog-visualisation) – R Shiny app with interactive charts including lollipop, Sankey, polar bar, maps, and waffle charts.
-- - [**eCommerce Fraud Detection with Big Data (PySpark MLlib)**](https://github.com/Sveta2732/Svetlana-Portfolio/tree/main/ml-big-data) – PySpark project for detecting Card-Not-Present (CNP) fraud using large-scale eCommerce datasets, including feature engineering, Spark ML pipelines, model evaluation, and K-Means clustering for behavioral analysis.
+- [**eCommerce Fraud Detection with Big Data (PySpark MLlib)**](https://github.com/Sveta2732/Svetlana-Portfolio/tree/main/ml-big-data) – PySpark project for detecting Card-Not-Present (CNP) fraud using large-scale eCommerce datasets, including feature engineering, Spark ML pipelines, model evaluation, and K-Means clustering for behavioral analysis.
 
 ---
 
