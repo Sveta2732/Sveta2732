@@ -34,12 +34,15 @@ I thrive in **collaborative environments**, as they allow me to learn new skills
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
 ![tidyverse](https://img.shields.io/badge/tidyverse-30B8C6?style=for-the-badge) 
-![dplyr](https://img.shields.io/badge/dplyr-1F77B4?style=for-the-badge)  
+![dplyr](https://img.shields.io/badge/dplyr-1F77B4?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge)
 
 🤖 **Machine Learning**  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFA500?style=for-the-badge) 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![PySpark MLlib](https://img.shields.io/badge/PySpark_MLlib-E25A1C?style=for-the-badge)
 
 🛠 **Collaboration & Tools**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
@@ -55,6 +58,7 @@ I thrive in **collaborative environments**, as they allow me to learn new skills
 - [**Anti-Cyberbullying Web App**](https://github.com/Sveta2732/Svetlana-Portfolio/tree/main/cyberbullying-team-project-web) – Interactive platform with AI text analysis, Hugging Face and Gemini API integration, and visualisations for teenagers.
 - [**ML Cyberbullying Detection API**](https://github.com/Sveta2732/Svetlana-Portfolio/tree/main/ml-cyberbullying-detector-api) – Pre-trained NLP models integrated with FastAPI, logs to AWS RDS, and live Gradio demo.
 - [**Dog Ownership Visualisation**](https://github.com/Sveta2732/Svetlana-Portfolio/tree/main/shiny-dog-visualisation) – R Shiny app with interactive charts including lollipop, Sankey, polar bar, maps, and waffle charts.
+- - [**eCommerce Fraud Detection with Big Data (PySpark MLlib)**](https://github.com/Sveta2732/Svetlana-Portfolio/tree/main/ml-big-data) – PySpark project for detecting Card-Not-Present (CNP) fraud using large-scale eCommerce datasets, including feature engineering, Spark ML pipelines, model evaluation, and K-Means clustering for behavioral analysis.
 
 ---
 
