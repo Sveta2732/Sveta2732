@@ -62,6 +62,8 @@ I thrive in **collaborative environments**, as they allow me to learn new skills
 - [**ML Cyberbullying Detection API**](https://github.com/Sveta2732/Svetlana-Portfolio/tree/main/ml-cyberbullying-detector-api) – Pre-trained NLP models integrated with FastAPI, logs to AWS RDS, and live Gradio demo.
 - [**Dog Ownership Visualisation**](https://github.com/Sveta2732/Svetlana-Portfolio/tree/main/shiny-dog-visualisation) – R Shiny app with interactive charts including lollipop, Sankey, polar bar, maps, and waffle charts.
 - [**eCommerce Fraud Detection with Big Data (PySpark MLlib)**](https://github.com/Sveta2732/Svetlana-Portfolio/tree/main/ml-big-data) – PySpark project for detecting Card-Not-Present (CNP) fraud using large-scale eCommerce datasets, including feature engineering, Spark ML pipelines, model evaluation, and K-Means clustering for behavioral analysis.
+- [**8 Week SQL Challenge (Learning Portfolio)**](https://github.com/Sveta2732/-8_week_SQL_challenge) – Self-driven SQL learning portfolio based on 8 structured business case studies by Data With Danny. Each case starts with simple questions and gradually increases in complexity, covering joins, aggregations, CTEs, window functions, and advanced analytical SQL techniques.
+
 
 ---
 
