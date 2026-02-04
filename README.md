@@ -38,7 +38,8 @@ I thrive in **collaborative environments**, as they allow me to learn new skills
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFA500?style=for-the-badge) 
 ![PySpark MLlib](https://img.shields.io/badge/PySpark_MLlib-E25A1C?style=for-the-badge)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
   
 📊 **Data Visualisation & Analysis**  
 ![ggplot2](https://img.shields.io/badge/ggplot2-FF69B4?style=for-the-badge) 
@@ -60,6 +61,7 @@ I thrive in **collaborative environments**, as they allow me to learn new skills
 ## 📂 Selected Projects
 - [**Anti-Cyberbullying Web App**](https://github.com/Sveta2732/Svetlana-Portfolio/tree/main/cyberbullying-team-project-web) – Interactive platform with AI text analysis, Hugging Face and Gemini API integration, and visualisations for teenagers.
 - [**ML Cyberbullying Detection API**](https://github.com/Sveta2732/Svetlana-Portfolio/tree/main/ml-cyberbullying-detector-api) – Pre-trained NLP models integrated with FastAPI, logs to AWS RDS, and live Gradio demo.
+- [**Backyard Possums Detection to Prevent Pet–Wildlife Conflicts**](https://github.com/Sveta2732/cnn_possum_detection) – Real-time backyard possum detection using CNN (ResNet18 transfer learning), OpenCV motion detection, and ROI-based classification. Designed for future smart home automation and possum analytics.
 - [**Dog Ownership Visualisation**](https://github.com/Sveta2732/Svetlana-Portfolio/tree/main/shiny-dog-visualisation) – R Shiny app with interactive charts including lollipop, Sankey, polar bar, maps, and waffle charts.
 - [**eCommerce Fraud Detection with Big Data (PySpark MLlib)**](https://github.com/Sveta2732/Svetlana-Portfolio/tree/main/ml-big-data) – PySpark project for detecting Card-Not-Present (CNP) fraud using large-scale eCommerce datasets, including feature engineering, Spark ML pipelines, model evaluation, and K-Means clustering for behavioral analysis.
 - [**8 Week SQL Challenge (Learning Portfolio)**](https://github.com/Sveta2732/-8_week_SQL_challenge) – Self-driven SQL learning portfolio based on 8 structured business case studies by Data With Danny. Each case starts with simple questions and gradually increases in complexity, covering joins, aggregations, CTEs, window functions, and advanced analytical SQL techniques.
